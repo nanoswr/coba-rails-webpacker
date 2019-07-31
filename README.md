@@ -11,15 +11,15 @@ Repository ini saya buat hanya untuk mencoba Webpack di Rails dengan Gem "webpac
 1. Masuk ke *directory* aplikasi
 2. Jalankan *command*
 
-        `$ bundle`
+        $ bundle
 
 3. Jalankan *command*
 
-        `$ yarn install`
+        $ yarn install
 
 4. Jalankan aplikasi dengan *command*
 
-        `$ rails s`
+        $ rails s
 
 5. Buka browser * **(Chrome / Firefox / Safari / Opera)** *
 
