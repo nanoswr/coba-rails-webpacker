@@ -1,0 +1,28 @@
+@import "/variables";
+@import "~bootstrap/scss/bootstrap";
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background: #f9f9f9;
+  padding-top: 55px;
+}
+
+.loading-backdrop {
+  display: none;
+  position: fixed;
+  width: 100%;
+  min-height: 100%;
+  z-index: 999999;
+  top: 55px;
+  background: rgba(#eeeeee, .95);
+
+  .loading-message {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+  }
+}
